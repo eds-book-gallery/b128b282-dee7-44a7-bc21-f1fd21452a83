@@ -8,3 +8,5 @@ dependencies:
   - odc-stac
   - jupyter
   - geopandas
+  - rioxarray
+  - seaborn
