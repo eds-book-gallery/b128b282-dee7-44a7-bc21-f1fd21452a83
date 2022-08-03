@@ -10,4 +10,4 @@ dependencies:
   - geopandas
   - rioxarray
   - seaborn
-  - xarray-spatial
+  - rasterstats
