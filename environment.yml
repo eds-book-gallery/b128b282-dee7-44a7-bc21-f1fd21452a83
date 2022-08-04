@@ -1,7 +1,6 @@
-name: general-exploration-landcover
+name: gen-exp-lc
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.9
   - pystac-client
@@ -9,5 +8,8 @@ dependencies:
   - jupyter
   - geopandas
   - rioxarray
-  - seaborn
   - rasterstats
+  - hvplot
+  - datashader
+  - scikit-learn
+  - geoviews
