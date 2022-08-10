@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-    <h1>Exploring Land Cover Data (Impact Observatory)</h1>
+    <h1>Exploring Land Cover Data<br>(Impact Observatory)</h1>
 </div>
 
 <p align="center">
