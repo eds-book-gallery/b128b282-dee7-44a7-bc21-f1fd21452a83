@@ -1,4 +1,4 @@
-name: gen-exp-lc
+name: general-exploration-landcover_io
 channels:
   - conda-forge
 dependencies:
