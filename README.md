@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <a href="https://w3id.org/ro-id/1b8921af-e77f-4ccf-ae38-4813cdceba0f">
+    <a href="https://w3id.org/ro-id/789b2db0-a52d-415c-af62-c87380937d4e">
         <img alt="RoHub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
 </p>
