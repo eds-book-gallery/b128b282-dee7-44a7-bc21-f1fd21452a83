@@ -1,31 +1,24 @@
-# Executable Notebook Template
-
-This template contains a GitHub action to automate and scheduling execution of Jupyter notebooks. It only works with conda-environment.
-
-## Steps
-
-* ~~Upload a single notebook `*.ipynb` file. For instance, you can use the templates by theme (Exploration, Preprocessing, Modelling, Postprocessing)  provided by the Environmental Data Science book repository.~~
-* ~~Modify the config file with the notebook file name.~~
-* ~~Upload a conda environment.yml file containing the libraries to run the executable notebook.~~
-
-After the above steps, the GitHub actions will succesfully generate notebook output cells in the `render` branch.
-
-## Badges template
-The badges below should be adapted according to the new notebook.
-
 <div align="center">
-    <h1>Exploring NLCD Land Cover Data</h1>
+    <h6>Environmental Data Science Book</h6>
 </div>
 
 <p align="center">
-    <a href="https://github.com/Environmental-DS-Book/template-executable-notebook/blob/main/LICENSE">
+<img src="https://github.com/alan-turing-institute/environmental-ds-book/blob/master/book/figures/logo/logo.png?raw=True" alt="thumbnail" width="200"/>
+</p>
+
+<div align="center">
+    <h1>Exploring Land Cover Data (Impact Observatory)</h1>
+</div>
+
+<p align="center">
+    <a href="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://mybinder.org/v2/gh/Environmental-DS-Book/template-executable-notebook/main?labpath=template-executable-notebook.ipynb">
+    <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/general-exploration-landcover_io/main?labpath=general-exploration-landcover_io.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/template-executable-notebook/actions/workflows/publish.yml/badge.svg">
-        <img alt="Continuous integration badge" src="https://github.com/Environmental-DS-Book/template-executable-notebook/actions/workflows/publish.yml/badge.svg">
+    <a href="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/actions/workflows/publish.yml/badge.svg">
+        <img alt="Continuous integration badge" src="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/actions/workflows/publish.yml/badge.svg">
     </a>
     <br/>
 </p>
