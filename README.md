@@ -17,8 +17,8 @@
     <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/general-exploration-landcover_io/main?labpath=general-exploration-landcover_io.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/actions/workflows/publish.yml/badge.svg">
-        <img alt="Continuous integration badge" src="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/actions/workflows/publish.yml/badge.svg">
+    <a href="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/actions/workflows/render.yaml">
+        <img alt="Render" src="https://github.com/Environmental-DS-Book/general-exploration-landcover_io/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
@@ -62,3 +62,4 @@ You may also download the notebook from GitHub to run it locally:
 
 # Credits
 The **How to run** section was adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project.
+The workflow actions were adapted from [2i2c’s hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template) released under BSD-3-Clause license.
