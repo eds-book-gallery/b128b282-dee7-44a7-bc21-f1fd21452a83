@@ -13,7 +13,7 @@ authors:
 version: v1.0.1 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: TBA
+    value: 10.5281/zenodo.8311800
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to introduce manipulation and exploratory analysis of classified land use and cover data, using example data created by Impact Observatory from ESA Sentinel-2 imagery."
 keywords:
