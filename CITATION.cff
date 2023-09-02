@@ -10,7 +10,7 @@ authors:
     affiliation: King's College London
   - name: "This EDS book notebook contributors"
     website: "https://github.com/eds-book-gallery/b128b282-dee7-44a7-bc21-f1fd21452a83/graphs/contributors"
-version: v1.0.0 # This is automatically set using the bumpversion tool.
+version: v1.0.1 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
     value: TBA
